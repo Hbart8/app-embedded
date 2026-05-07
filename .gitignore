@@ -1,0 +1,17 @@
+.gradle/
+.idea/
+local.properties
+
+build/
+app/build/
+
+*.iml
+*.log
+captures/
+.externalNativeBuild/
+.cxx/
+
+.DS_Store
+Thumbs.db
+
+.codex-pet-runs/
