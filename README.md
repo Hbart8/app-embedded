@@ -103,4 +103,4 @@ D:\Android\Sdk\platform-tools\adb.exe install -r app\build\outputs\apk\debug\app
 
 ## 仓库地址
 
-- GitHub: <https://github.com/Hbart8/app-->
+- GitHub: <https://github.com/Hbart8/app-embedded>
